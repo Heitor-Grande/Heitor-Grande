@@ -1,7 +1,6 @@
 ## Olá me chamo Heitor Grande, sou desenvolvedor FullStack!
 
 - ⚡ Resiliência
-- 💻 Trabalho com o que amo...
 
 #
 
